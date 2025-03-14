@@ -1,0 +1,1 @@
+If you run everything in the main.py, it will output all the answers for all the questions. Make sure you have the directory of the dataset right. 
